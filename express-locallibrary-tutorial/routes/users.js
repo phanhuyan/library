@@ -9,3 +9,4 @@ router.get('/cool', (req, res) => {
   res.send("You're so cool");
 });
 module.exports = router;
+console.log("users.js");
